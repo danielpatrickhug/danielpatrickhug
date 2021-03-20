@@ -1,4 +1,4 @@
-!()[GithubBanner.jpg]
+!()[GithubBanner.jpeg]
 ### Hi there my names Daniel, heres my Github profile 👋
 
 
