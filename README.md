@@ -2,11 +2,7 @@
 
 ### Hi there my names Daniel, heres my Github profile 👋
 
-
-- I’m currently working on Education tech using Deep learning and NLP
-- I’m currently learning Pytorch, Cloud solutions, MLOPS, Graph Neural Networks and GoLang
-- I’m looking to collaborate on Open Source repositories
-- [Fledgling Blog](https://danielpatrickhug.medium.com/)
-- Meta Cognition is a hobby of mine. [Mind maps](https://www.xmind.net/), [Spaced Repitition/Active Recall](https://apps.ankiweb.net/), [Incremental Reading](https://getpolarized.io/), [Project-Based Learning](https://github.com/danielpatrickhug)
+- Working on framing a problem right now. Check back for updates if intrested. Please forgive my messy code. I havent had the time to iterate/clean up my repos, treat them as prototypes for the time being. 
+- 
 - How to reach me: My email: DanielPatrickHug@gmail.com
 
