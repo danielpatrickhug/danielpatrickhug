@@ -2,10 +2,6 @@
 
 ### Hi there my names Dan Hug, heres my Github profile 👋
 
-- I'm currently working on framing a problem. Check back for updates if intrested. Please forgive my messy code. I havent had the time to iterate/clean up my repos, treat them as prototypes for the time being. 
-- My personal research interests are Human-in-the-loop reinforcement algorithms for education. My goal is to imporve memory attention through spaced repition using Anki. 
-- I take an active approach to learning new things. I noticed I learn best through conversations, mapping ideas together into a knowledge graph, repitition of foundational facts through active recall, and then taking what I learned and putting it all together into a project. 
-- Building knowledge trees.
 
 - How to reach me: My email: DanielPatrickHug@gmail.com Text me: (516) 455 - 2021
 
