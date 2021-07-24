@@ -3,5 +3,5 @@
 ### Hi there my names Dan Hug, heres my Github profile 👋
 
 
-- How to reach me: My email: DanielPatrickHug@gmail.com Text me: (516) 455 - 2021
+- How to reach me: My email: DanielPatrickHug@gmail.com
 
